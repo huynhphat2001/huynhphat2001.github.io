@@ -35,7 +35,7 @@ const textConfig = {
       Swal.fire({
         title: textConfig.text1,
         text: textConfig.text2,
-        imageUrl: "img/cuteCat.jpg",
+        imageUrl: "img/12.webp",
         imageWidth: 300,
         imageHeight: 300,
         background: '#fff url("img/iput-bg.jpg")',
