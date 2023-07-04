@@ -138,7 +138,7 @@ const textConfig = {
             text: textConfig.text11,
             confirmButtonColor: "#83d0c9",
             onClose: () => {
-                window.location = "https://www.facebook.com/profile.php?id=100078352052166";
+                window.location = "https://www.facebook.com/huynhphat9286";
             },
           });
         }
